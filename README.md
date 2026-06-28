@@ -1,5 +1,7 @@
 # CITE Domain Rating
 
+> **📦 Merged into [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** — CITE now ships inside the unified marketing skills library (v10.0.0) alongside the CORE-EEAT and C³ frameworks and 38 marketing skills. This repo remains as the standalone source.
+
 > **4 dimensions x 10 items = 40 evaluation criteria** for assessing domain authority in the Generative Engine Optimization (GEO) era.
 
 **Version**: 1.0 | **Author**: Aaron | **Updated**: 2026-02-10
